@@ -144,7 +144,7 @@
 <body>
 <div class="container">
 
-    <h1>☑️ venky Todo App</h1>
+    <h1> Todo App</h1>
     <p class="subtitle">Built with Java Servlets + JSP • Deployed on Tomcat</p>
 
     <!-- Stats -->
