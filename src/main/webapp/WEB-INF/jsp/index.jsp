@@ -144,7 +144,7 @@
 <body>
 <div class="container">
 
-    <h1> chethan Todo App</h1>
+    <h1> akshara Todo App</h1>
     <p class="subtitle">Built with Java Servlets + JSP • Deployed on Tomcat</p>
 
     <!-- Stats -->
